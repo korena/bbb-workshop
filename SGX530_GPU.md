@@ -11,6 +11,11 @@ If you're trying to work with kernel 4.x, avoid the following:
 
 Some of the above may be useful for debugging and some general understanding of how the SGX components stack up to provide functionality, but you will have a very hard time trying to forward port the compilable source code for your own kernel, if you value your time, just don't.
 
+## watch the process on youtube:
+
+[![Watch on YouTube](https://img.youtube.com/vi/8nctkhG_afY/1.jpg)](https://youtu.be/8nctkhG_afY)
+
+
 ## getting the SDK
 
 We'll start off by downloading [ti's SDK](http://software-dl.ti.com/processor-sdk-linux/esd/AM335X/latest/index_FDS.html), we're specifically going for AM335x Linux SDK Essentials binary file, this seems to be the only maintained version of the SDK, I may be wrong, do ping me if this is inacurate.

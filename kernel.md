@@ -122,5 +122,3 @@ this will produce the following files:
 
 + arch/arm/boot/zImage
 + arch/arm/boot/dts/am335x-boneblack.dtb
-
-The first is your compressed kernel, the second is your device tree. For information about the Cross Compiler used, refer to [CROSS_COMPILER.md (TODO: fix)](https://github.com/korena/bbb_dashboard/blob/master/CROSS_COMPILER.md)
