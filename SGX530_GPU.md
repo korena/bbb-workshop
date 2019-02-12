@@ -390,7 +390,7 @@ run the downloaded installer, The only components we need for our purpose are :
 
 Once we have Imagination technology's SDK extracted, we'll navigate to examples directory, and start with the beginner level, we're going to compile the helloAPI example, then we'll move to advanced examples and compile ExampleUI example. Read the getting started documentation under SDK/Documentation/SDKBrowser and figure out how that's done, or just watch the video:
 
-
+[building PVR examples video](https://www.youtube.com/watch?v=14o0Clhwtxo)
 
 
 
